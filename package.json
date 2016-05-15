@@ -1,0 +1,24 @@
+{
+  "name": "grun",
+  "version": "1.0.0",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LaBay",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  },
+  "description": "smth",
+  "repository": {
+    "type": "git",
+    "url": "nogit"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "dependencies": {}
+}
